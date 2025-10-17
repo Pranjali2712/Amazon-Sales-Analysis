@@ -19,6 +19,7 @@ Lightning Charging Cable-  23217
 Wired Headphones-	  20557
 
 **#Month on Month Revenue Analysis**
+
 MONTH	 TOTAL_REVENUE	PREV_REV	ABSOLUTE_REV
 January	  1812742.87		
 February  2200078.08	1812742.87	387335.21
@@ -104,4 +105,5 @@ Batteries 	   198689.74	    0.58
 2. Category Laptop contributes ~35.28% of total revenue (Pareto).  
 3. Accessories show high order frequency but low per-order quantity.  
 4. Sales concentrated in New York City, Los Angeles, San Francisco  
+
 
