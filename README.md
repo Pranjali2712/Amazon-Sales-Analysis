@@ -11,10 +11,10 @@ Built and tested on **Snowflake SQL** using an Amazon-style sales dataset (2019)
 ### 📁 Project Structure
 | Stage | File | Description |
 |--------|------|--------------|
-| 1️⃣ Data Ingestion | `create_ingest.sql` | Create database, schema, and import CSV data |
-| 2️⃣ Data Profiling | `Data_profiling_queries.sql`, `Data_Profiling_Report.md` | Assess data health — nulls, duplicates, consistency |
-| 3️⃣ Data Cleaning | `Data_cleaning_queries.sql`, `Data_Cleaning_Report.md` | Remove duplicates, fix blanks, standardize formats |
-| 4️⃣ EDA | `Analysis_queries.sql`, `Exploratory_Data_Analysis_Report.md` | Analyze sales trends, top products, regions, and time patterns |
+| 1️⃣ Data Ingestion | `sql/create_ingest.sql` |
+| 2️⃣ Data Profiling | `sql/Data_profiling_queries.sql`, `reports/Data_Profiling_Report.md` |
+| 3️⃣ Data Cleaning | `sql/Data_cleaning_queries.sql`, `reports/Data_Cleaning_Report.md` |
+| 4️⃣ EDA | `sql/Analysis_queries.sql`, `reports/Exploratory_Data_Analysis_Report.md` |
 
 ---
 
@@ -49,7 +49,4 @@ Built and tested on **Snowflake SQL** using an Amazon-style sales dataset (2019)
 www.linkedin.com/in/pranjali-093bb1168
 https://github.com/Pranjali2712
 ---
-| 1️⃣ Data Ingestion | `sql/create_ingest.sql` |
-| 2️⃣ Data Profiling | `sql/Data_profiling_queries.sql`, `reports/Data_Profiling_Report.md` |
-| 3️⃣ Data Cleaning | `sql/Data_cleaning_queries.sql`, `reports/Data_Cleaning_Report.md` |
-| 4️⃣ EDA | `sql/Analysis_queries.sql`, `reports/Exploratory_Data_Analysis_Report.md` |
+
