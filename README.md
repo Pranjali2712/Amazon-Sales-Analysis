@@ -18,6 +18,11 @@ Built and tested on **Snowflake SQL** using an Amazon-style sales dataset (2019)
 
 ---
 
+### 🎥 Project Walkthrough (YouTube)
+Watch the full video walkthrough of this SQL Project:  
+🔗 [Amazon Sales Analysis — SQL + Snowflake Project Overview](https://youtu.be/avMbOPg1zpM)
+
+
 ### 🔍 Key Metrics
 - Total rows: **185,950**
 - Unique Orders: **178,437**
